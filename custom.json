@@ -1,0 +1,4 @@
+{
+	"fileUris":["https://raw.githubusercontent.com/PradeepFelix/whizlabazextscript/master/nginxscript.sh"],
+	"commandToExecute": "./nginxscript.sh"
+}
